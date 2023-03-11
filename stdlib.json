@@ -6,38 +6,38 @@
     {
       "name": "BOT_TOKEN",
       "description": "Discord Bot Token"
-    }
+    },
     {
       "name": "MONGO_CONNECTION",
-      "description": "Mongo Database Connection String",
-    }
+      "description": "Mongo Database Connection String"
+    },
     {
       "name": "ERROR_LOGS",
-      "description": "Error Logs Webhook",
-    }
+      "description": "Error Logs Webhook"
+    },
     {
       "name": "JOIN_LEAVE_LOGS",
-      "description": "Join and Leave Logs Webhook",
-    }
+      "description": "Join and Leave Logs Webhook"
+    },
     {
       "name": "BOT_SECRET",
-      "description": "Discord Bot Client Secret",
-    }
+      "description": "Discord Bot Client Secret"
+    },
     {
       "name": "SESSION_PASSWORD",
-      "description": "A session password that you create, like abc123",
-    }
+      "description": "A session password that you create, like abc123"
+    },
     {
       "name": "STRANGE_API_KEY",
-      "description": "Strange's free image API key",
-    }
+      "description": "Strange's free image API key"
+    },
     {
       "name": "SPOTIFY_CLIENT_ID",
-      "description": "Spotify Application Client ID",
-    }
+      "description": "Spotify Application Client ID"
+    },
     {
       "name": "SPOTIFY_CLIENT_SECRET",
-      "description": "Spotify Application Client Secret",
+      "description": "Spotify Application Client Secret"
     }
   ]
 }
